@@ -1,0 +1,3 @@
+title=News App
+author=Rui Yan
+orientation=portrait

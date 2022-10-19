@@ -1,0 +1,111 @@
+<HomeScreen>:
+    MDBoxLayout:
+        orientation: "vertical"
+
+        MDTopAppBar:
+            id: toolbar
+            title: 'Hi Rui Yan'
+            anchor_title: "left"
+            elevation: 0
+            md_bg_color: 1,1,1,1
+            right_action_items: [["menu"]]
+            # To change the color of the icon
+            opposite_colors: False
+            specific_text_color: 0, 0, 0, 1
+        
+        MDBoxLayout:
+            id: hero_section
+            adaptive_height: True
+            md_bg_color: 1,1,1,1
+            padding: [dp(toolbar.padding[0] + 10), (toolbar.height - 20) / 2, 0, (toolbar.height + 20) / 2]
+
+            MDLabel:
+                id: herosection_label
+                text: "Explore today's \nworld news"
+                font_style: "H5"
+                font_name: "Poppins"
+
+        MDBoxLayout:
+            id: search_section
+            adaptive_height: True
+            padding: [0, (toolbar.height) / 4]
+            size_hint_x: .9
+            pos_hint: {"center_x": .5, "center_y": .5}
+
+            MDTextField:
+                mode: "fill"
+                radius: [15,15,15,15]
+                icon_right: "magnify"
+                hint_text: "Search here"
+                line_anim: False
+            
+
+        MDScrollView:
+            padding: [0, (toolbar.height) / 4]
+            size_hint_x: .9
+            pos_hint: {"center_x": .5, "center_y": .5}
+            always_overscroll: False
+            bar_width: 0
+
+            MDGridLayout:
+                cols:1
+                adaptive_height: True
+                spacing: 20
+
+                # Category
+                MDBoxLayout:
+                    orientation: 'vertical'
+                    adaptive_height: True
+                    MDScrollView:
+                        do_scroll_y: False
+                        do_scroll_x: True
+                        always_overscroll: False
+                        bar_width: 0
+                        
+                        MDGridLayout:
+                            rows:1
+                            adaptive_size: True
+                            spacing: 10
+                            
+                            MD3Card:
+                            MD3Card:
+                            MD3Card:
+                            MD3Card:
+                            MD3Card:
+                            MD3Card:
+
+                # Latest news
+                MDGridLayout:
+                    cols:1
+                    adaptive_size: True
+                    spacing: 20
+                    padding: [0, 20, 0, 20]
+                    
+                    MDLabel:
+                        text: "Latest News"
+                        font_style: "H6"
+                        font_name: "Poppins"
+                    
+                    MD3Card:
+                    MD3Card:
+                    MD3Card:
+                    MD3Card:
+                    MD3Card:
+                    MD3Card:
+
+<MD3Card@MDCard>
+    padding: 4
+    size_hint: None, None
+    size: "200dp", "100dp"
+
+    MDRelativeLayout:
+
+        MDLabel:
+            id: label
+            text: "hi"
+            font_name: "Poppins"
+            adaptive_size: True
+            halign: "center"
+            color: "grey"
+            pos: "12dp", "12dp"
+            bold: True
