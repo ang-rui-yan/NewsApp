@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 9679,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "Former Uber security chief found guilty of covering up massive 2016 data breach",
+            "description": "Uber paid two hackers $100,000 in Bitcoin to keep a 2016 data breach quiet, and now a jury has convicted former chief security officer Joe Sullivan on two charges for not reporting the incident to authorities.",
+            "url": "https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lh2YBh8cWvn3ARrenXxjolBte4o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932655/acastro_STK106__01.jpg",
+            "publishedAt": "2022-10-06T00:25:32Z",
+            "content": "Former Uber security chief found guilty of covering up massive 2016 data breach\r\nFormer Uber security chief found guilty of covering up massive 2016 data breach\r\n / Prosecutors claimed Joe Sullivan h… [+4358 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Google’s partnering with Coinbase to let cloud customers pay in crypto next year",
+            "description": "Starting in 2023, Google will partner with Coinbase to power crypto-based transactions for “select” customers in the Web3 space.",
+            "url": "https://www.theverge.com/2022/10/11/23398306/google-coinbase-partnership-crypto-2023-cloud",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
+            "publishedAt": "2022-10-11T14:29:54Z",
+            "content": "Googles partnering with Coinbase to let cloud customers pay in crypto next year\r\nGoogles partnering with Coinbase to let cloud customers pay in crypto next year\r\n / The search giant will use Coinbase… [+1913 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto firm 21Shares lists bitcoin ETP on Nasdaq Dubai - Reuters.com",
+            "description": "Crypto investment products firm 21.co said on Wednesday its subsidiary 21Shares AG has listed a bitcoin exchange-traded product on Nasdaq Dubai, making it the Middle East's first physically-backed bitcoin ETP.",
+            "url": "https://www.reuters.com/technology/crypto-firm-21shares-lists-bitcoin-etp-nasdaq-dubai-2022-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/e-rtKXHJBMDr3n3yPuzMmaBrXaE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/62VXJFTHEZNRZM4CO6PTL5CS3A.jpg",
+            "publishedAt": "2022-10-12T06:05:00Z",
+            "content": "DUBAI, Oct 12 (Reuters) - Crypto investment products firm 21.co said on Wednesday its subsidiary 21Shares AG has listed a bitcoin exchange-traded product on Nasdaq Dubai, making it the Middle East's … [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cryptoverse: Bitcoin miners get stuck in a bear pit - Reuters",
+            "description": "Cryptoverse: Bitcoin miners get stuck in a bear pit  Reuters",
+            "url": "https://www.reuters.com/technology/cryptoverse-bitcoin-miners-get-stuck-bear-pit-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/i0pAJuhLdd7LHa8MRf9_AOBX3ts=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OWRJ2G6AQNOSBCG2QYUETRASBY.jpg",
+            "publishedAt": "2022-09-27T05:13:00Z",
+            "content": "Sept 27 (Reuters) - Spare a thought for the beleaguered bitcoin miner.\r\nIn late 2021, miners were the toast of the town with a surefire path to profit: hook powerful computers up to cheap power, crac… [+3450 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "Celsius Exchange Data Dump Is a Gift to Crypto Sleuths—and Thieves",
+            "description": "By releasing half a million users’ transactions in a bankruptcy court filing, the company has opened a vast breach in its users’ financial privacy.",
+            "url": "https://www.wired.com/story/celsius-user-data-dump-crypto-tracing-scammers/",
+            "urlToImage": "https://media.wired.com/photos/6347486008a267a4aad8c04d/191:100/w_1280,c_limit/Celsius-Exchange-Data-Dump-GettyImages-1272233098.jpg",
+            "publishedAt": "2022-10-13T11:00:00Z",
+            "content": "The paradoxical nature of cryptocurrency's privacy is that the blockchain, that unchangeable ledger of all a cryptocurrency's transactions, serves as both a map and a mask: Bitcoin are easy enough to… [+3212 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Mastercard wants to make crypto purchases less risky",
+            "description": "Crypto is still loaded with uncertainty, but Mastercard is betting that it can assuage buyers' minds. The credit card giant has introduced a Crypto Secure service meant to boost trust in crypto purchases. The offering uses AI from CipherTrace (a blockchain se…",
+            "url": "https://www.engadget.com/mastercard-crypto-secure-200559003.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/b2ecadc0-4419-11ed-aedf-3ae191550ab7",
+            "publishedAt": "2022-10-04T20:05:59Z",
+            "content": "Crypto is still loaded with uncertainty, but Mastercard is betting that it can assuage buyers' minds. The credit card giant has introduced a Crypto Secure service meant to boost trust in crypto purch… [+1448 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto's Grayscale blasts SEC over 'special harshness' toward bitcoin trading - Reuters",
+            "description": "Crypto asset manager Grayscale Investments LLC, which manages the world’s largest bitcoin investment fund, told a federal appeals court on Tuesday that the U.S. Securities and Exchange Commission is so suspicious of bitcoin spot trading that it blocked a prop…",
+            "url": "https://www.reuters.com/legal/transactional/cryptos-grayscale-blasts-sec-over-special-harshness-toward-bitcoin-trading-2022-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/sRHF7gx_CIpGBaBuQFZxu07Vk6E=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HHHWGWJU3RN6PAYDIQUO6C4NYU.jpg",
+            "publishedAt": "2022-10-12T01:07:00Z",
+            "content": "(Reuters) - Crypto asset manager Grayscale Investments LLC, which manages the worlds largest bitcoin investment fund, told a federal appeals court on Tuesday that the U.S. Securities and Exchange Com… [+6388 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Grayscale says U.S. SEC set bar too high for Bitcoin funds - Reuters",
+            "description": "Grayscale Investments said in a court filing Tuesday that the U.S. Securities and Exchange Commission set the bar too high for spot bitcoin exchange-traded funds, which have so far not been approved for listing on U.S. exchanges.",
+            "url": "https://www.reuters.com/business/grayscale-says-us-sec-set-bar-too-high-bitcoin-funds-2022-10-12/",
+            "urlToImage": "https://www.reuters.com/resizer/k-HxEu1YivT4sbXJKB3Cc9Ktq-A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HB6QFWZ72FJBFA5VUFH5PQBQWE.jpg",
+            "publishedAt": "2022-10-12T00:22:00Z",
+            "content": "Oct 11 (Reuters) - Grayscale Investments said in a court filing Tuesday that the U.S. Securities and Exchange Commission set the bar too high for spot bitcoin exchange-traded funds, which have so far… [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cryptoverse: Flurry of funds bet on bruised bitcoin's allure - Reuters",
+            "description": "A growing number of funds are betting on the long-term appeal of bitcoin and ether, a gritty gambit in the depths of a crypto winter.",
+            "url": "https://www.reuters.com/technology/cryptoverse-flurry-funds-bet-bruised-bitcoins-allure-2022-10-18/",
+            "urlToImage": "https://www.reuters.com/resizer/esnMghYodm_IW4N5TSy6_eR8SD8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TKCT62JKVJKA5G7QD6FVZTS5DY.jpg",
+            "publishedAt": "2022-10-18T05:14:00Z",
+            "content": "Oct 18 (Reuters) - A growing number of funds are betting on the long-term appeal of bitcoin and ether, a gritty gambit in the depths of a crypto winter.\r\nUnfazed by a collapse in prices over the past… [+3811 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Why bitcoin mining struggles to go green - Reuters.com",
+            "description": "Projects have sought ways to shift bitcoin mining towards cleaner energy. But new research shows the world's largest cryptocurrency has only made slim gains in its usage of sustainable power in the year to January 2022. Francesca Lynagh has more.",
+            "url": "https://www.reuters.com/video/watch/idOV826227092022RP1",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20220928&i=OV826227092022RP1&r=OV826227092022RP1&t=2",
+            "publishedAt": "2022-09-28T11:59:40Z",
+            "content": "Posted \r\nProjects have sought ways to shift bitcoin mining towards cleaner energy. But new research shows the world's largest cryptocurrency has only made slim gains in its usage of sustainable power… [+55 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin mining struggles to go green, research shows - Reuters",
+            "description": "Bitcoin is struggling to go green, with the cryptocurrency making only slim gains in its usage of sustainable energy in the year to January, research by Cambridge university showed on Tuesday.",
+            "url": "https://www.reuters.com/technology/bitcoin-mining-struggles-go-green-research-shows-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/GinA1NFuisA5sivR91vluRb8SQo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUWQZU5ZZJIF3HLCX5BGWH22LU.jpg",
+            "publishedAt": "2022-09-27T07:48:00Z",
+            "content": "LONDON, Sept 27 (Reuters) - Bitcoin is struggling to go green, with the cryptocurrency making only slim gains in its usage of sustainable energy in the year to January, research by Cambridge universi… [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Tabasum M",
+            "title": "Bitcoin Alternatives With Massive Growth Potential In 2022",
+            "description": "Bitcoin was launched in 2009, but a person or group of individuals named Satoshi Nakamoto. This was the time after the global economic meltdown of 2008, and many people felt the need for a financial system that did not depend on Big Banks. Bitcoin was launche…",
+            "url": "https://readwrite.com/bitcoin-alternatives-with-massive-growth-potential-in-2022/",
+            "urlToImage": "https://images.readwrite.com/wp-content/uploads/2022/09/Bitcoin-and-Inflation.jpg",
+            "publishedAt": "2022-09-26T15:44:44Z",
+            "content": "Bitcoin was launched in 2009, but a person or group of individuals named Satoshi Nakamoto. This was the time after the global economic meltdown of 2008, and many people felt the need for a financial … [+6749 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "JPMorgan CEO Jamie Dimon slammed crypto as dangerous - and called bitcoin a Ponzi scheme",
+            "description": "The billionaire banker argued that bitcoin and other speculative tokens don't do anything, and facilitate fraud, theft, and money laundering.",
+            "url": "https://markets.businessinsider.com/news/currencies/jpmorgan-jamie-dimon-bitcoin-crypto-blockchain-regulation-crime-ponzi-scheme-2022-9",
+            "urlToImage": "https://i.insider.com/60b0c30b02ac410018f934e3?width=1200&format=jpeg",
+            "publishedAt": "2022-09-22T10:26:24Z",
+            "content": "Jamie Dimon has doubled down on his disdain for bitcoin and some other cryptocurrencies, arguing they serve no purpose beyond vacuuming up new buyers' money to pay out profits to their existing holde… [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin firm NYDIG lays off about a third of employees - WSJ - Reuters.com",
+            "description": "Bitcoin company NYDIG laid off about a third of its workforce last month to cut costs, the Wall Street Journal <a href=\"https://on.wsj.com/3eytci4\" target=\"_blank\">reported</a> on Thursday, citing people familiar with the matter.",
+            "url": "https://www.reuters.com/technology/bitcoin-firm-nydig-lays-off-about-third-employees-wsj-2022-10-14/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=116",
+            "publishedAt": "2022-10-14T01:43:00Z",
+            "content": "Oct 13 (Reuters) - Bitcoin company NYDIG laid off about a third of its workforce last month to cut costs, the Wall Street Journal reported on Thursday, citing people familiar with the matter.\r\nNYDIG,… [+1059 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Michael Saylor says UK turmoil is a signal to 'opt out' and embrace bitcoin as policymakers scramble to avert disaster in global markets",
+            "description": "\"The 'crisis' the central bankers are trying to avert is the free functioning of markets delivering fair interest rates,\" Saylor wrote on Twitter.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-uk-debt-markets-crisis-michael-saylor-microstrategy-crypto-bonds-2022-9",
+            "urlToImage": "https://i.insider.com/631133643fe7c40019e4f2fd?width=1200&format=jpeg",
+            "publishedAt": "2022-09-29T16:45:42Z",
+            "content": "Michael Saylor, co-founder of MicroStrategy, said bitcoin offers a non-sovereign store of value, while policymakers at the Bank of England scramble to stabilize financial markets with bond-buying. \r\n… [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Bitcoin Fails To Produce 1 Block For Over An Hour",
+            "description": "It took more than an hour to mine a block of bitcoin (BTC) on Monday, leaving thousands of transactions stuck in an unconfirmed state. CoinDesk reports: According to on-chain data from several block explorers, the interval between the two latest blocks mined …",
+            "url": "https://slashdot.org/story/22/10/17/2059211/bitcoin-fails-to-produce-1-block-for-over-an-hour",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-10-17T23:20:00Z",
+            "content": "According to on-chain data from severalblock explorers, the interval between the two latest blocks mined by Foundry USA and Luxor was 85 minutes. According to Mempool, over 13,000 transactions were p… [+548 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Crypto Weekly: not feeling the chill - Reuters",
+            "description": "From why the bitcoin winter hasn't chilled all investors, to a royal fan for crypto innovation, we round up the week's big stories from the world of alternative money. Kristy Kilburn reports.",
+            "url": "https://www.reuters.com/video/watch/idOV283517102022RP1",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20221018&i=OV283517102022RP1&r=OV283517102022RP1&t=2",
+            "publishedAt": "2022-10-18T21:11:11Z",
+            "content": "Posted \r\nFrom why the bitcoin winter hasn't chilled all investors, to a royal fan for crypto innovation, we round up the week's big stories from the world of alternative money. Kristy Kilburn reports."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Ethereum Plunges After SEC Chair Says ‘The Merge’ Could Make Crypto a Security",
+            "description": "Ethereum, the second largest cryptocurrency in the world, continued to plunge in price over the weekend following the network’s highly publicized technical change known as ‘the Merge’ last Thursday as well as comments from the head of the Securities and Excha…",
+            "url": "https://gizmodo.com/ethereum-bitcoin-price-plunges-sec-chair-merge-security-1849551695",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/34cc7d800a03d8c7270c224e5d1f8eb2.jpg",
+            "publishedAt": "2022-09-19T10:00:00Z",
+            "content": "Ethereum, the second largest cryptocurrency in the world, continued to plunge in price over the weekend following the networks highly publicized technical change known as the Merge last Thursday as w… [+2672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Madeline Garfinkle",
+            "title": "Crypto Crash: Bitcoin Fell Below 6%, Ethereum Down 10%",
+            "description": "It's more bad news for crypto, but what's to blame for the ongoing falls in value?",
+            "url": "https://www.entrepreneur.com/business-news/why-is-crypto-crashing/435593",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1663599478-GettyImages-1340690117.jpg",
+            "publishedAt": "2022-09-19T14:58:00Z",
+            "content": "Early Monday morning, Investing.com tweeted some sobering news for the crypto community: Bitcoin had fallen below $19,000 to $18,802.1, marking a further decline from its \"psychological threshold\" of… [+1713 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The crypto bear market will continue if bitcoin confirms its recent breakdown below $20,000, Fairlead's Katie Stockton says",
+            "description": "\"Short-term momentum has shifted negative per a new daily MACD 'sell' signal,\" Fairlead Strategies' Katie Stockton said.",
+            "url": "https://markets.businessinsider.com/news/currencies/crypto-bear-market-bitcoin-prices-20000-btc-breakdown-technical-analysis-2022-9",
+            "urlToImage": "https://i.insider.com/632b4a2048c188001815b1f1?width=1200&format=jpeg",
+            "publishedAt": "2022-09-21T18:14:47Z",
+            "content": "The crypto bear market is likely to continue as long as bitcoin confirms its recent breakdown below $20,000, according to a Tuesday note from Fairlead Strategies.\r\nThe technical analysis-focused rese… [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Ryan Austin)",
+            "title": "Altcoins are the alternative digital currencies to bitcoin — here's what they are and how they work",
+            "description": "Altcoins, or alternative coins, are any cryptocurrencies not bitcoin. Learn how altcoins emerged and evolved into a driving force in crypto markets.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-altcoin",
+            "urlToImage": "https://i.insider.com/6112cbf27ab071001878ec71?width=1200&format=jpeg",
+            "publishedAt": "2022-09-20T21:08:35Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+17380 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Michael Saylor's MicroStrategy buys the dip with fresh $6 million bitcoin purchase, adding to its crypto stockpile",
+            "description": "As of September 22, MicroStrategy and its subsidiaries own about 130,000 bitcoins, bought at an average price of about $30,639, per Bloomberg.",
+            "url": "https://markets.businessinsider.com/news/stocks/michael-saylor-microstrategy-buy-dip-million-bitcoin-cryptocurrency-eth-crypto-2022-9",
+            "urlToImage": "https://i.insider.com/6329c0bc4f9291001883ce01?width=1200&format=jpeg",
+            "publishedAt": "2022-09-20T14:31:20Z",
+            "content": "MicroStrategy, helmed by famed bitcoin-bull Michael Saylor, purchased about $6 million in bitcoin between August 2 and September 19, a Tuesday SEC filing showed.\r\nThat's good for about 301 bitcoin, b… [+1049 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto law firm Roche Freedman fights to stay in bitcoin case after videos surface - Reuters",
+            "description": "A hotly contested disqualification fight at the 11th U.S. Circuit Court of Appeals should provide a good indication of just how much damage the crypto law firm Roche Freedman is facing after last month’s revelation of surreptitious video recordings of name pa…",
+            "url": "https://www.reuters.com/legal/transactional/crypto-law-firm-roche-freedman-fights-stay-bitcoin-case-after-videos-surface-2022-09-20/",
+            "urlToImage": "https://www.reuters.com/resizer/Y3XdCfNWUjotxtL8RqJGQ2FseLg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z2M2ZRGOCRO3BAGWH3Z34WGOEI.jpg",
+            "publishedAt": "2022-09-20T21:33:00Z",
+            "content": "(Reuters) - A hotly contested disqualification fight at the 11th U.S. Circuit Court of Appeals should provide a good indication of just how much damage the crypto law firm Roche Freedman is facing af… [+6936 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin falls below $19000 as cryptos creak under rate hike risk - Reuters",
+            "description": "Cryptocurrencies fell to fresh lows on Monday on regulatory concerns and as investors globally turned shy on risky assets with interest rate rises looming around the world.",
+            "url": "https://www.reuters.com/technology/bitcoin-falls-below-19000-cryptos-creak-under-rate-hike-risk-2022-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/7vvHHpQvDtdEIXqXAS7vTw_ipPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/36XAVNUD7ZKANCOL2HEUR2FOKU.jpg",
+            "publishedAt": "2022-09-19T06:38:00Z",
+            "content": "SINGAPORE, Sept 19 (Reuters) - Cryptocurrencies fell to fresh lows on Monday on regulatory concerns and as investors globally turned shy on risky assets with interest rate rises looming around the wo… [+1578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Jamie Dimon Slams Crypto Tokens as 'Decentralized Ponzi Schemes'",
+            "description": "Jamie Dimon didn't mince words when a US lawmaker mentioned the executive's history of criticizing cryptocurrencies. From a report: \"I'm a major skeptic on crypto tokens, which you call currency, like Bitcoin,\" the JPMorgan Chase chief executive officer said …",
+            "url": "https://slashdot.org/story/22/09/22/1615228/jamie-dimon-slams-crypto-tokens-as-decentralized-ponzi-schemes",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-09-22T20:00:00Z",
+            "content": "This is also the same guy who says that everyone is more productive when they aren't working from home. Take everything he says with a HUGE grain of salt. I'm not talking pretzel-sized salt grains...… [+40 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Nasdaq bets big on digital assets despite crypto turmoil - Reuters",
+            "description": "Nasdaq Inc <a href=\"https://www.reuters.com/companies/NDAQ.O\" target=\"_blank\">(NDAQ.O)</a> is placing a big bet on the cryptocurrency market, with the launch of a digital assets business that is aimed at tapping institutional investors.",
+            "url": "https://www.reuters.com/business/finance/nasdaq-bets-big-digital-assets-despite-crypto-turmoil-2022-09-20/",
+            "urlToImage": "https://www.reuters.com/resizer/vhmmMl1JCDu98U_lVwDA2ozDnQw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2YIMSMH2ZOCJKVDJB7M2YUIEI.jpg",
+            "publishedAt": "2022-09-20T15:50:00Z",
+            "content": "Sept 20 (Reuters) - Nasdaq Inc (NDAQ.O) is placing a big bet on the cryptocurrency market, with the launch of a digital assets business that is aimed at tapping institutional investors.\r\nThe new unit… [+1018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Gabrielle Bienasz",
+            "title": "JPMorgan Chase CEO Calls Crypto Tokens Like Bitcoin 'Decentralized Ponzi Schemes'",
+            "description": "Jamie Dimon testified at a hearing alongside other big-bank CEOs — and made pointed comments about crypto.",
+            "url": "https://www.entrepreneur.com/business-news/jpmorgan-chase-ceo-on-crypto-decentralized-ponzi-schemes/435837",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1663856200-MANDELNGANContributor.jpg",
+            "publishedAt": "2022-09-22T15:05:00Z",
+            "content": "The CEO of one of the largest banks in the world did not hold back on his opinion of cryptocurrency.\r\nMANDEL NGAN / Contributor / Getty Images\r\n\"They are decentralized Ponzi schemes,\" Jamie Dimon, CE… [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "Internationally Hunted Terraform Labs Co-Founder Do Kwon Says He’s ‘Making Zero Effort To Hide’",
+            "description": "International crime-fighting agency Interpol reportedly issued a notice instructing law enforcement agencies worldwide to arrest Terraform Labs co-founder and CEO Do Kwon. Somehow, Kwon is still trying to convince the world, and likely himself, that he’s in f…",
+            "url": "https://gizmodo.com/terra-stablecoin-do-kwon-crypto-red-notice-1849582877",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/548db7a43be6b7016915638c5084c114.jpg",
+            "publishedAt": "2022-09-26T20:50:00Z",
+            "content": "International crime-fighting agency Interpol reportedly issued a notice instructing law enforcement agencies worldwide to arrest Terraform Labs co-founder and CEO Do Kwon. Somehow, Kwon is still tryi… [+2402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Binance Says $100 Million of Crypto Produced Out of Thin Air by Hackers",
+            "description": "Binance estimates roughly $100-$110 million worth of its cryptocurrency BNB was taken by unknown hackers on Thursday, according to a tweet from CEO Changpeng Zhao, considerably less than the $566 million originally estimated. But don’t worry if you’ve got an …",
+            "url": "https://gizmodo.com/binance-bnb-bitcoin-price-million-stolen-crypto-hack-1849629259",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0e1a27a951091212371841672223fb17.jpg",
+            "publishedAt": "2022-10-07T09:00:00Z",
+            "content": "Binance estimates roughly $100-$110 million worth of its cryptocurrency BNB was taken by unknown hackers on Thursday, according to a tweet from CEO Changpeng Zhao, considerably less than the $566 mil… [+2080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Christopher Massimine",
+            "title": "Crypto Is Becoming Mainstream. Here's How to Live In The Financial \"New Normal\"",
+            "description": "Cryptocurrency is not going anywhere. It is here to stay.",
+            "url": "https://www.entrepreneur.com/money-finance/its-time-to-trust-crypto-heres-why/435057",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1665173870-shutterstock-1975856621.jpg",
+            "publishedAt": "2022-10-11T16:00:00Z",
+            "content": "The future of money is changing. Many people think it's already changed but it hasn't. Cryptocurrency is the future of money, but it still has a long way to go before its full potential can be realiz… [+4530 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "'Rich Dad Poor Dad' author Robert Kiyosaki says the 'everything crash' is underway - and trumpets it as a rare chance to make a fortune",
+            "description": "The personal-finance guru sees a sweeping collapse in asset prices wiping out millions of people's fortunes, but allowing thousands to become wealthy.",
+            "url": "https://markets.businessinsider.com/news/stocks/robert-kiyosaki-rich-poor-dad-everything-bubble-crash-bitcoin-crypto-2022-10",
+            "urlToImage": "https://i.insider.com/5e2b32d662fa813e064000cb?width=1200&format=jpeg",
+            "publishedAt": "2022-10-03T15:55:53Z",
+            "content": "Robert Kiyosaki has warned a historic market slump is underway, and heralded it as a rare opportunity to make life-changing amounts of money.\r\n\"Here it comes ... the everything bubble turns into the … [+2007 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ahartmans@businessinsider.com (Avery Hartmans)",
+            "title": "If you bought EMAX crypto tokens when Kim Kardashian promoted them on Instagram, you'd have lost over 95% of your money by now",
+            "description": "Kardashian promoted the crypto token on her Instagram story in June 2021 in a post that's now landed her in hot water with the SEC.",
+            "url": "https://www.businessinsider.com/kim-kardashian-crypto-emax-ethereummax-sec-promotion-value-plummeted-2022-10",
+            "urlToImage": "https://i.insider.com/633b02e64d423e0018201a04?width=1200&format=jpeg",
+            "publishedAt": "2022-10-03T18:25:42Z",
+            "content": "If you'd been swayed by Kim Kardashian to buy Ethereum Max tokens last year, your holdings would have lost 95% of their value by now. \r\nKardashian promoted the token on her Instagram story in June 20… [+2404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Gabrielle Bienasz",
+            "title": "The First-Ever Tweet in NFT Format Sold for $2.9 Million in March 2021. The Most Recent Bid Is $132.",
+            "description": "A once-buzzy NFT faced yet another super-low bid on Sunday. It has lost almost 100% of its initial value.",
+            "url": "https://www.entrepreneur.com/news-and-trends/once-worth-29-million-nft-of-first-ever-tweet-is-now-132/437349",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1666024941-SOPAImagescopy.jpg",
+            "publishedAt": "2022-10-17T17:23:00Z",
+            "content": "The NFT of the first-ever Tweet, which was first purchased for $2.9 million, has suffered yet another ground-floor bid of $132.72.\r\njust setting up my twttr\r\n jack (@jack) March 21, 2006\r\nJack Dorsey… [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xeiaso.net"
+            },
+            "author": "Xe Iaso",
+            "title": "Bitcoin and Economic Nihilism",
+            "description": "Posted on 2022-10-10",
+            "url": "https://xeiaso.net/blog/cryptocurrency-ownership",
+            "urlToImage": "https://cdn.xeiaso.net/file/christine-static/hero/inkopolis-sunset-smol.png",
+            "publishedAt": "2022-10-10T00:17:29Z",
+            "content": "A 81 minute read.\r\nImage generated by Waifu Diffusion v1.2 -- anime style, matte painting, splatoon, giant sword, squirt guns, cityscape, skyline, sunset, concert, studio ghibli, serene, peaceful\r\nI … [+40683 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dergigi.com"
+            },
+            "author": null,
+            "title": "Bitcoin Is Digital Scarcity",
+            "description": "Non-virtual money in a non-virtual world.",
+            "url": "https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/",
+            "urlToImage": "https://dergigi.com/assets/images/goldmaedchen.jpg",
+            "publishedAt": "2022-10-03T10:59:03Z",
+            "content": "We should treat computers as fancy telephones, whose purpose is to connect people. Information is alienated experience. Information is not something that exists. Indeed, computers dont really exist, … [+54494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Serhack.me"
+            },
+            "author": "SerHack",
+            "title": "The Bitcoin Pre-Genesis Block",
+            "description": "Discover the hidden story of the first genesis block of Bitcoin",
+            "url": "https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/",
+            "urlToImage": "https://serhack.me/images/articles/story-behind-alternative-genesis-block-satoshi/genesisblock-1_800px.png",
+            "publishedAt": "2022-10-08T08:04:16Z",
+            "content": "In this article, I attempt to explain the early source code of Bitcoin and make correlations with the source code currently in use. My intent is to help you better understand the early details regard… [+23752 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Enrique Pérez",
+            "title": "El Bitcoin contamina casi tanto como la gasolina. En vez de \"oro digital\" ha acabado siendo un \"petróleo digital\"",
+            "description": "La minería de Bitcoin tiene un impacto medioambiental a la altura de las actividades más contaminantes del planeta. Esta es la conclusión de un nuevo estudio publicado en la revista Nature. Se trata de uno de los informes más completos hasta la fecha, donde s…",
+            "url": "https://www.xataka.com/criptomonedas/bitcoin-contamina-casi-como-gasolina-vez-oro-digital-ha-acabado-siendo-petroleo-digital",
+            "urlToImage": "https://i.blogs.es/edcdc4/bitcoin/840_560.jpg",
+            "publishedAt": "2022-09-30T16:00:55Z",
+            "content": "La minería de Bitcoin tiene un impacto medioambiental a la altura de las actividades más contaminantes del planeta. Esta es la conclusión de un nuevo estudio publicado en la revista Nature. Se trata … [+3242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Mark Frauenfelder",
+            "title": "To dodge Putin's draft, Russian men can buy fake positive HIV test results for $620 in bitcoin",
+            "description": "In Russia, young men who don't want to die in Putin's insane war can buy fake HIV diagnoses for about $620 worth of crypto. Putin banned bitcoin earlier this year, following the lead of other authoritarian despots. That hasn't stopped people there from using …",
+            "url": "https://boingboing.net/2022/10/11/to-dodge-putins-draft-russian-men-can-buy-fake-positive-hiv-test-results-for-620-in-bitcoin.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_2076301972.jpg?fit=1200%2C800&ssl=1",
+            "publishedAt": "2022-10-11T15:23:44Z",
+            "content": "In Russia, young men who don't want to die in Putin's insane war can buy fake HIV diagnoses for about $620 worth of crypto. Putin banned bitcoin earlier this year, following the lead of other authori… [+936 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "0xStacker",
+            "title": "Bitcoin is not a Store of Value",
+            "description": "Before we begin, I’m not just some crypto FUDster. I’ve been in crypto for a long time. My first crypto purchases took place on an exchange called btc-e back in 2014 which later went up the river for laundering funds from the Mt Gox hack. I was a little altco…",
+            "url": "https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdfab696-cf92-4334-adcd-957f78b18d94_1920x1080.png",
+            "publishedAt": "2022-09-18T23:06:23Z",
+            "content": "Before we begin, Im not just some crypto FUDster. Ive been in crypto for a long time. My first crypto purchases took place on an exchange called btc-e back in 2014 which later went up the river for l… [+24248 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "Billionaire hedge fund manager Paul Tudor Jones says a 'recession playbook' would see stocks fall by another 10%",
+            "description": "\"We're probably getting ready to go through the recession playbook,\" the founder of Tudor Investments told CNBC about markets.",
+            "url": "https://markets.businessinsider.com/news/stocks/paul-tudor-jones-stocks-bitcoin-recession-playbook-economy-federal-reserve-2022-10",
+            "urlToImage": "https://i.insider.com/61704a80fee39f0018fa7832?width=1200&format=jpeg",
+            "publishedAt": "2022-10-10T17:04:07Z",
+            "content": "The already-battered stock market will face further pressure under a \"recession playbook\" laid out by billionaire investor Paul Tudor Jones. \r\n\"That playbook is: most recessions last about 300 days f… [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sdelouya@insider.com (Samantha Delouya)",
+            "title": "Kim Kardashian will pay $1.26 million in a crypto-related fine to the SEC. Here are other high-profile celebrities who have backed recent crypto ventures.",
+            "description": "Kardashian settled charges for promoting a crypto asset on Instagram. See other celebs who have publicly touted crypto like Tom Brady and Larry David.",
+            "url": "https://www.businessinsider.com/high-profile-celebrities-cryptocurrency-bitcoin-nft-promoted-kim-kardashian-list-2022-10",
+            "urlToImage": "https://i.insider.com/633b209f4d423e0018202034?width=1200&format=jpeg",
+            "publishedAt": "2022-10-05T11:14:00Z",
+            "content": "Kim Kardashian will pay a hefty fine linked to a crypto promotion that the SEC said broke its rules.\r\nKardashian settled with the agency for $1.26 million after she promoted EthereumMax on Instagram … [+655 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Celsius co-founder and strategy head Leon resigns from bankrupt crypto lender - Reuters",
+            "description": "Celsius Network's co-founder and chief strategy officer Daniel Leon has stepped down, the bankrupt crypto lender said on Tuesday, joining a wave of executive departures from beleaguered digital asset companies.",
+            "url": "https://www.reuters.com/business/celsius-co-founder-strategy-head-leon-resigns-bankrupt-crypto-lender-2022-10-04/",
+            "urlToImage": "https://www.reuters.com/resizer/xx-wpfJ8UIHcuFyIgp0CcMwy3xo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ALB632A7LVKL5BAH3R555YWKRE.jpg",
+            "publishedAt": "2022-10-04T20:13:00Z",
+            "content": "Oct 4 (Reuters) - Celsius Network's co-founder and chief strategy officer Daniel Leon has stepped down, the bankrupt crypto lender said on Tuesday, joining a wave of executive departures from beleagu… [+1032 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Former Celsius exec joins JPMorgan as director of crypto regulatory policy - Reuters",
+            "description": "Former Celsius executive Aaron Iovine has joined JPMorgan Chase & Co as executive director of digital assets regulatory policy, according to his LinkedIn profile, days after the bank's Chief Executive Jamie Dimon blasted cryptocurrencies as fraud and decentra…",
+            "url": "https://www.reuters.com/markets/us/former-celsius-exec-joins-jpmorgan-director-crypto-regulatory-policy-2022-10-19/",
+            "urlToImage": "https://www.reuters.com/resizer/L5Myg2i74-yttCL7sZOlip14o_o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DBCNEEHPUVIGRGUDPQVX7JBKGY.jpg",
+            "publishedAt": "2022-10-19T11:39:00Z",
+            "content": "Oct 19 (Reuters) - Former Celsius executive Aaron Iovine has joined JPMorgan Chase &amp; Co as executive director of digital assets regulatory policy, according to his LinkedIn profile, days after th… [+991 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto regulation laggards spur arbitrage risk - French central banker - Reuters",
+            "description": "Countries that are slow to build up regulations for crypto assets could create arbitrage risks that players operating globally could exploit, the head of France's central bank said on Tuesday.",
+            "url": "https://www.reuters.com/technology/crypto-regulation-laggards-spur-arbitrage-risk-french-central-banker-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/wLX2Yah90Pw5MgTG_7foMDkF4DM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JA52XUN66BOPJN3RTWOHGGVCJQ.jpg",
+            "publishedAt": "2022-09-27T12:04:00Z",
+            "content": "PARIS, Sept 27 (Reuters) - Countries that are slow to build up regulations for crypto assets could create arbitrage risks that players operating globally could exploit, the head of France's central b… [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medium"
+            },
+            "author": "Lance Ng",
+            "title": "Former FBI Director Said Blockchain Is Easier to Trace Than Paper Money",
+            "description": "Bitcoin has failed. Cryptocurrencies and DeFi platforms are now more vulnerable to privacy breaches and being hacked than traditional banking.",
+            "url": "https://lancengym.medium.com/former-fbi-director-said-blockchain-is-easier-to-trace-than-paper-money-c3400f8d9596",
+            "urlToImage": "https://miro.medium.com/max/762/1*Cbl_PC6YBMoS2X_nAt4sTw.jpeg",
+            "publishedAt": "2022-10-17T13:07:27Z",
+            "content": "In his original bitcoin manifesto, creator Satoshi Nakamoto talked specifically about how the traditional banking"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Jury finds former Uber security chief guilty of concealing data breach - Reuters.com",
+            "description": "A San Francisco jury has found Uber Technologies Inc's <a href=\"https://www.reuters.com/companies/UBER.N\" target=\"_blank\">(UBER.N)</a> former chief security officer Joseph Sullivan guilty of criminal obstruction for failing to report a 2016 cybersecurity inci…",
+            "url": "https://www.reuters.com/legal/jury-finds-former-uber-security-chief-guilty-concealing-data-breach-2022-10-05/",
+            "urlToImage": "https://www.reuters.com/resizer/PV-qkQigQ4mgUC3XuzKhkOF9c6I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKISG4ISJBMOJFSR45H4AEFQXM.jpg",
+            "publishedAt": "2022-10-05T23:49:00Z",
+            "content": "Oct 5 (Reuters) - A San Francisco jury has found Uber Technologies Inc's (UBER.N) former chief security officer Joseph Sullivan guilty of criminal obstruction for failing to report a 2016 cybersecuri… [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto exchange FTX to acquire bankrupt Voyager's assets - Reuters",
+            "description": "Bankrupt crypto lender Voyager Digital said on Monday crypto exchange FTX has won an auction for its assets, in a bid valued at about $1.42 billion.",
+            "url": "https://www.reuters.com/technology/crypto-exchange-ftx-acquire-bankrupt-voyagers-assets-2022-09-27/",
+            "urlToImage": "https://www.reuters.com/resizer/GLwYtDbbE17f9A8RDxXAjEvEvg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J6QXSDOS6ZPK5PE7BMFYWRR434.jpg",
+            "publishedAt": "2022-09-27T02:34:00Z",
+            "content": "Sept 26 (Reuters) - Bankrupt crypto lender Voyager Digital said on Monday crypto exchange FTX has won an auction for its assets, in a bid valued at about $1.42 billion.\r\nFTX's bid comprises of a fair… [+1763 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "The Fed's rate hike was just the beginning as banks around the world adjust policy - but the uncertainty doesn't mean the market can't rally.",
+            "description": "One firm still expects a 17% stock rally before a recession hits in 2023, even as the Fed hammers stocks with its interest rate hikes.",
+            "url": "https://www.businessinsider.com/fed-rate-hike-central-banks-policy-inflation-stifel-stocks-rally-2022-9",
+            "urlToImage": "https://i.insider.com/63248de5d5916b0019ac09af?width=1200&format=jpeg",
+            "publishedAt": "2022-09-23T11:18:21Z",
+            "content": "Happy Friday team. I'm Phil Rosen, reporting from New York. The Federal Reserve's Wednesday rate hike was just the beginning of the world's fight against inflation. A smattering of other central bank… [+5718 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "US stocks fall as dollar and Treasury yields soar amid fallout from UK tax plan",
+            "description": "US stocks ended Monday lower on further turmoil in the UK. US bond yields soared with the 10 year climbing as much as 21 basis points.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-stocks-fall-further-pound-falls-further-2022-9",
+            "urlToImage": "https://i.insider.com/6331fc508345c90018ddf710?width=1200&format=jpeg",
+            "publishedAt": "2022-09-26T20:05:18Z",
+            "content": "US stocks ended Monday lower amid turmoil stemming from the reaction to the UK's new budget plan, which includes some of the steepest tax cuts in decades and has led to fears of worsening inflation a… [+1017 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "Dow soars 800 points as stocks extend massive rally on fresh hopes for less hawkish central banks",
+            "description": "A drop in US job openings and a smaller-than-expected rate hike from the Reserve Bank of Australia helped fuel the best two-day rally since 2020.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-soars-800-sp500-fed-pivot-2022-10",
+            "urlToImage": "https://i.insider.com/62fe56a8f1df7e0018eb1a22?width=1200&format=jpeg",
+            "publishedAt": "2022-10-04T20:06:19Z",
+            "content": "US stocks closed sharply higher on Tuesday, extending early gains and capping the best two-day upward swing on Wall Street since 2020.\r\nTraders increased bets on a dovish pivot from the Federal Reser… [+857 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "US stocks continue sell-off as traders brace for more Fed rate hikes later this week",
+            "description": "Last week, global equities saw their worst five-day stretch since June as investors anticipate another jumbo rate hike from the Federal Reserve.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-slide-as-traders-brace-for-fed-hike-2022-9",
+            "urlToImage": "https://i.insider.com/63286def4f92910018839bd3?width=1200&format=jpeg",
+            "publishedAt": "2022-09-19T13:37:48Z",
+            "content": "US stocks dropped Monday ahead of the Federal Reserve's two-day meeting, which begins Tuesday. The dip is a continuation of Friday's sell-off, in which indexes capped off their worst five-day stretch… [+1262 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "US stocks extend rally amid investor hopes that central banks are nearly done hiking interest rates",
+            "description": "US stocks were higher Tuesday. Investors saw Australia's smaller than expected rate hike as good news for global central banks.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-wall-street-adds-to-mondays-big-gains-2022-10",
+            "urlToImage": "https://i.insider.com/633c34b74d423e001820351a?width=1200&format=jpeg",
+            "publishedAt": "2022-10-04T13:37:08Z",
+            "content": "US stocks opened higher Tuesday,  building on Monday's strong rally, as investors hope that a the end of monetary tightening may be in sight. \r\nThe Dow Jones Industrial Average opened nearly 400 poin… [+1327 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks tumble after another strong jobs report bolsters Fed's hawkish position",
+            "description": "The US economy added 263,000 jobs in September, ahead of consensus expectations for 255,000 in new jobs added, and the unemployment rate fell to 3.5%.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-strong-september-jobs-report-hawkish-fed-2022-10",
+            "urlToImage": "https://i.insider.com/634024b3b3e94d001978043e?width=1200&format=jpeg",
+            "publishedAt": "2022-10-07T13:31:53Z",
+            "content": "US stocks erased pre-market gains and tumbled on Friday following a stronger-than-expected September jobs report.\r\nThe US economy added 263,000 jobs in September, ahead of consensus expectations for … [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "What crisis? High-stakes crypto lending looks here to stay - Reuters",
+            "description": "On May 11, Scott Odell, an analyst at British crypto lender Blockchain.com, instant messaged Edward Zhao of Three Arrows Capital asking that the Singapore hedge fund repay at least part of a $270 million loan.",
+            "url": "https://www.reuters.com/technology/what-crisis-high-stakes-crypto-lending-looks-here-stay-2022-09-21/",
+            "urlToImage": "https://www.reuters.com/resizer/xPN0D5Xld5YlWL6G4_3t2WbfIEc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QF3AU25ZRFN7JBIHGNRJB6APFU.jpg",
+            "publishedAt": "2022-09-21T05:13:00Z",
+            "content": "LONDON/WASHINGTON, Sept 21 (Reuters) - On May 11, Scott Odell, an analyst at British crypto lender Blockchain.com, instant messaged Edward Zhao of Three Arrows Capital asking that the Singapore hedge… [+7813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Krempl",
+            "title": "EU-Kommission arbeitet an Energieeffizienz-Label für Bitcoin, Computer & Co.",
+            "description": "Mit einem Aktionsplan zur Digitalisierung des Energiesystems will die EU-Kommission einen flexibleren Strommarkt und grünere Kryptowährungen voranbringen.",
+            "url": "https://www.heise.de/news/EU-Kommission-arbeitet-an-Energieeffizienz-Label-fuer-Bitcoin-Computer-Co-7313645.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/9/4/5/6/shutterstock_1995173864-8484c125c436ece4.jpg",
+            "publishedAt": "2022-10-19T12:29:00Z",
+            "content": "Inhaltsverzeichnis\r\nUm die Abhängigkeit der EU von russischen fossilen Brennstoffen zu beenden, die Klimakrise zu bewältigen und einen erschwinglichen Zugang zu Energie für alle zu gewährleisten, häl… [+6144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Nach TerraUSD-Desaster: Strafverfolger wollen an die Bitcoins von Do Kwon",
+            "description": "Südkoreas Behörden wollen 3313 Bitcoin einfrieren, die mit dem implodierten Stablecoin TerraUSD in Verbindung stehen. Dessen Macher wird per Interpol gesucht.",
+            "url": "https://www.heise.de/news/Nach-TerraUSD-Desaster-Strafverfolger-wollen-an-die-Bitcoins-von-Do-Kwon-7278736.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/6/4/7/0/shutterstock_2154833429-26987f3d6f1c2c74.jpg",
+            "publishedAt": "2022-09-28T15:43:00Z",
+            "content": "Südkoreanische Strafverfolger wollen bei zwei Kryptobörsen Guthaben im Millionenwert einfrieren lassen, die in Verbindung mit dem über Interpol gesuchten Kryptowährungsunternehmer Do Kwon stehen soll… [+3193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Fintech-Insolvenz: Nuri stellt im Dezember den Betrieb ein",
+            "description": "Nach der Insolvenzmeldung im August gehen nun im Dezember die Lichter bei der Berliner Neobank Nuri aus. Kunden mit Bitcoin-Ertragskonto müssen weiter zittern.",
+            "url": "https://www.heise.de/news/Fintech-Insolvenz-Nuri-stellt-im-Dezember-den-Betrieb-ein-7312023.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/8/5/9/3/nuri-732c2fb04abd87c9.jpg",
+            "publishedAt": "2022-10-18T12:37:00Z",
+            "content": "Die insolvente Internet-Bank Nuri beendet zum 18. Dezember den Betrieb. Die rund 200.000 Kundinnen und Kunden des Berliner Start-ups seien an diesem Dienstag informiert und gebeten worden, bis dahin … [+3224 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "David Voreacos",
+            "title": "Feds Seized $311M in Bitcoin. The Crypto Hacker Stole It Back",
+            "description": "Feds locked up a storage device full of ill-gotten tokens. Then someone started stealing the loot.",
+            "url": "https://www.bloomberg.com/news/articles/2022-10-03/feds-seized-311m-in-bitcoin-btc-the-crypto-hacker-stole-it-back",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imc.sllYU4SY/v0/1200x630.jpg",
+            "publishedAt": "2022-10-04T19:22:51Z",
+            "content": "Gary Harmon grinned as he lounged in a bathtub full of dollar bills surrounded by scantily clad women. The moment, captured in a photo on his cellphone, could be part of his undoing. To US prosecutor… [+8544 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "rhouston@businessinsider.com (Rickie Houston, CEPF)",
+            "title": "Gemini vs. Coinbase: How the crypto exchanges compare",
+            "description": "Gemini is best for interest rewards, and it offers advanced traders lower fees. Coinbase has more cryptocurrencies and institutional resources.",
+            "url": "https://www.businessinsider.com/personal-finance/gemini-vs-coinbase",
+            "urlToImage": "https://i.insider.com/63471b6c39a9f1001232e161?width=1200&format=jpeg",
+            "publishedAt": "2022-10-12T22:06:01Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+13819 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Dow soars 764 points to kick off October as US stocks surge on slide in US dollar and lower bond yields",
+            "description": "The 10-Year US Treasury yield fell as much as 25 basis points to 3.58% after hitting a multi-year high of 4.01% last week.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-us-dollar-bond-yields-decline-rates-2022-10",
+            "urlToImage": "https://i.insider.com/61029eb0f350d500195991a8?width=1200&format=jpeg",
+            "publishedAt": "2022-10-03T20:02:49Z",
+            "content": "US stocks soared on Monday, kicking off the new quarter with a near 3% gain for all three major market indices. The Dow Jones surged more than 800 points.\r\nThe gains came amid a slide in the US dolla… [+1324 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Carla Mozée)",
+            "title": "US stocks fall after biggest 2-day rally since 2020 as investors assess Fed path and new payroll data",
+            "description": "The S&P 500 was pulling back from its gain of nearly 6% over the past two sessions. Treasury yields were moving higher after declines fed the rally.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-nasdaq-adp-jobs-economy-oil-opec-2022-10",
+            "urlToImage": "https://i.insider.com/62ce973c06bc8f00188e7829?width=1200&format=jpeg",
+            "publishedAt": "2022-10-05T13:33:25Z",
+            "content": "US stocks fell Wednesday following sharp gains in the previous two sessions as fourth-quarter trading got underway, with investors assessing private-sector hiring data that came in above expectations… [+1778 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+            "title": "Pro-Russian groups raised nearly $400,000 in cryptocurrency to fund Moscow's war with Ukraine and evade US sanctions, report says",
+            "description": "The groups used Telegram to raise funds in cryptocurrencies to purchase equipment like drones and radios for the Russian military.",
+            "url": "https://markets.businessinsider.com/news/currencies/pro-russia-groups-raised-nearly-400k-crypto-fund-ukraine-war-2022-10",
+            "urlToImage": "https://i.insider.com/633af20a6427060019ef0fac?width=1200&format=jpeg",
+            "publishedAt": "2022-10-03T15:20:25Z",
+            "content": "Pro-Russian groups raised hundreds of thousands of dollars in cryptocurrency to fund Moscow's war with Ukraine and evade US sanctions, according to research conducted by blockchain intelligence compa… [+1796 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks rise and bond yields drop after the UK government walks back part of its tax cut plan",
+            "description": "UK finance minister Kwasi Kwarteng confirmed reports that the newly installed government would abandon its planned tax cuts for the rich.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-bond-yields-drop-uk-reverses-tax-plan-2022-10",
+            "urlToImage": "https://i.insider.com/626ff9cb86fa90001905fcd2?width=1200&format=jpeg",
+            "publishedAt": "2022-10-03T13:41:44Z",
+            "content": "US stocks surged on Monday after the UK government walked back part of its controversial tax cut plan that sparked a steep decline in the British pound last month.\r\nUK finance minister Kwasi Kwarteng… [+1304 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks mixed with S&P 500 hitting a new low in 2022 as Fed officials defend hawkish policy",
+            "description": "Minneapolis Fed President Neel Kashkari said at a Wall Street Journal event that the central bank's current rate hikes are \"appropriate.\"",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-sp500-2022-low-fed-defends-hawkish-2022-9",
+            "urlToImage": "https://i.insider.com/5f36baabe89ebf001f044a3d?width=1200&format=jpeg",
+            "publishedAt": "2022-09-27T20:16:56Z",
+            "content": "US stocks closed mixed on Tuesday, with the S&amp;P 500 hitting a new 2022 low intraday as the broad index and the Dow Jones Industrial Average fell for a sixth day in a row.\r\nDuring the trading sess… [+1347 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Nasdaq plunges nearly 4% as US stocks sell off after strong jobs report solidifies outlook for another big rate hike",
+            "description": "\"Today's job report indicates the job market keeps chugging along - and the Fed has more work to do,\" CIBC's David Donabedian told Insider.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-september-jobs-report-solidifies-rate-hike-2022-10",
+            "urlToImage": "https://i.insider.com/6308d7f6d266820019ff2840?width=1200&format=jpeg",
+            "publishedAt": "2022-10-07T20:05:20Z",
+            "content": "US stocks plunged on Friday after a stronger-than-expected September jobs report all but solidified another outsized interest rate hike by the Federal Reserve in November.\r\nThe US economy added 263,0… [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Dow sinks more than 500 points in whiplash trading session after Fed raises interest rates by 75 basis points",
+            "description": "\"There is a strong clustering within the dot-plots, showing all FOMC members are on board with this more hawkish narrative,\" ING Economics said.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-500-fed-hikes-75-basis-points-2022-9",
+            "urlToImage": "https://i.insider.com/632b6324dd40a400194ff974?width=1200&format=jpeg",
+            "publishedAt": "2022-09-21T20:05:18Z",
+            "content": "US stocks closed sharply lower in a whiplashed trading session on Wednesday after Federal Reserve Chairman Jerome Powell hiked interest rates by 75 basis points and signaled that more increases were … [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks plunge after September inflation surpasses expectations to hit highest level since 1982",
+            "description": "\"In one line: Awful,\" Panthenon Macro's chief economist Ian Shepherdson said of September's hot CPI report.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-september-inflation-cpi-fed-economy-2022-10",
+            "urlToImage": "https://i.insider.com/60e4b16b102fd50018477eb4?width=1200&format=jpeg",
+            "publishedAt": "2022-10-13T13:31:52Z",
+            "content": "US stocks plunged on Thursday after September's CPI report showed inflation continues to hit levels not seen in four decades.\r\nMonth-over-month inflation hit 0.4%, double the expectation for a rise o… [+1333 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks snap 2-day win streak as investors digest surging bond yields ahead of more high-profile earnings",
+            "description": "The 10-year US Treasury yield surged to a new cycle high on Wednesday, jumping 11 basis points to 4.13%. That is its highest level since 2007.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-bond-yield-surge-outweighs-3q-earnings-2022-10",
+            "urlToImage": "https://i.insider.com/635050d3995f300018387ab1?width=1200&format=jpeg",
+            "publishedAt": "2022-10-19T19:58:31Z",
+            "content": "US stocks fell to snap a two-day win streak on Wednesday as rising bond yields outweighed solid third-quarter earnings results.\r\nBond yields surged to a new cycle high, with the 10-year US Treasury y… [+1256 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Oil climbs, Asian shares mixed as holiday-heavy week gets underway - Reuters",
+            "description": "Oil jumped on Monday as OPEC+ considers a cut to output this week, while Asia shares were mixed with holidays in the Asia-Pacific region likely to result in thin trading.",
+            "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/uVoQ4TpafF0IMopjp8JUwU8UV4I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KAF3JZRN4BO7RPAZ3D5S7HZNS4.jpg",
+            "publishedAt": "2022-10-03T03:08:00Z",
+            "content": "TOKYO, Oct 3 (Reuters) - Oil jumped on Monday as OPEC+ considers a cut to output this week, while Asia shares were mixed with holidays in the Asia-Pacific region likely to result in thin trading.\r\nU.… [+2006 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Get out the Red Bull, 24/7 stock trading is coming, market execs say - Reuters.com",
+            "description": "Around-the-clock trading, a feature of cryptocurrency markets, is likely coming to U.S. equities within five years, some retail brokerages and exchange operators, including Robinhood Markets <a href=\"https://www.reuters.com/companies/HOOD.O\" target=\"_blank\">(…",
+            "url": "https://www.reuters.com/markets/us/get-out-red-bull-247-stock-trading-is-coming-market-execs-say-2022-10-13/",
+            "urlToImage": "https://www.reuters.com/resizer/1Co1teZQ-Qp7j2WeZAa470vWrCg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4CYU6TYRO5N7PCBC5K4DOANY6E.jpg",
+            "publishedAt": "2022-10-13T19:26:00Z",
+            "content": "Oct 13 (Reuters) - Around-the-clock trading, a feature of cryptocurrency markets, is likely coming to U.S. equities within five years, some retail brokerages and exchange operators, including Robinho… [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "NFT sales plunge in Q3, down by 60% from Q2 - Reuters",
+            "description": "Sales of non-fungible tokens dropped sharply in the third quarter, according to blockchain tracker DappRadar, as crypto investors hunker down for a \"crypto winter\" and demand for the highly speculative digital assets shows little sign of returning.",
+            "url": "https://www.reuters.com/technology/nft-sales-plunge-q3-down-by-60-q2-2022-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/habulNk9ik30nHeTGtr7F2qj5Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UGYWGYKAN5KUBKBNZOB6HMVL2Y.jpg",
+            "publishedAt": "2022-10-03T08:34:00Z",
+            "content": "LONDON, Oct 3 (Reuters) - Sales of non-fungible tokens dropped sharply in the third quarter, according to blockchain tracker DappRadar, as crypto investors hunker down for a \"crypto winter\" and deman… [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Arizona cryonics facility preserves bodies to revive later - Reuters",
+            "description": "Time and death are \"on pause\" for some people in Scottsdale, Arizona.",
+            "url": "https://www.reuters.com/lifestyle/science/arizona-cryonics-facility-preserves-bodies-revive-later-2022-10-12/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=116",
+            "publishedAt": "2022-10-12T10:07:00Z",
+            "content": "SCOTTSDALE, Ariz., Oct 12 (Reuters) - Time and death are \"on pause\" for some people in Scottsdale, Arizona.\r\nInside tanks filled with liquid nitrogen are the bodies and heads of 199 humans who opted … [+2293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Ponvang Bulus",
+            "title": "What Is a Bitcoin Futures ETF? How Does It Differ From a Bitcoin Spot ETF?",
+            "description": "Some crypto advocates want a Bitcoin spot ETF, but others aren't so sure.",
+            "url": "https://www.makeuseof.com/what-is-bitcoin-futures-etf-how-differ-from-bitcoin-spot-etf/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/photo-of-hand-dropping-bitcoin-into-black-piggy-bank.jpg",
+            "publishedAt": "2022-09-21T10:45:13Z",
+            "content": "There is a long-standing struggle to create a Bitcoin spot exchange-traded fund (ETF). However, only Bitcoin futures ETFs have been approved so far, which leaves Bitcoin investors with more to look f… [+6364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Daniel Van Boom",
+            "title": "North Korea's Crypto Hackers Are Paving the Road to Nuclear Armageddon - CNET",
+            "description": "North Korea has quietly become a cryptocurrency superpower. It has stolen billions in bitcoin and ether and is funneling profits to its nuclear weapons program.",
+            "url": "https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/5eefc0960681d19ca16f8041be0fc356ecdbd95d/hub/2022/10/07/9215cd36-fe84-4bc4-a85f-5dc3cdf1fcd7/cover-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2022-10-09T12:00:06Z",
+            "content": "It was an astonishing interview for recruiter Elliott Garlock. While screening candidate engineers for a crypto firm in February, Garlock encountered one applicant who raised almost every conceivable… [+26106 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica",
+            "title": "Wages are the most important number to watch in the jobs report",
+            "description": "Investors, economists and members of the Federal Reserve will be poring over the September jobs report on Friday morning for clues about the health of the economy. But one figure may matter more than most...and it's not the number of jobs added or the unemplo…",
+            "url": "https://www.cnn.com/2022/10/02/investing/stocks-week-ahead/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220930095435-us-labor-costs-inflation-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-02T12:23:45Z",
+            "content": "A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nInvestors, economists and members of the Federal Reserve will be pori… [+5518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Pastor",
+            "title": "Ethereum está cayendo a plomo porque ya tiene más de acción bursátil que de dinero contante y sonante",
+            "description": "Era uno de los eventos más esperados en el segmento de las criptodivisas desde hace años. El célebre 'The Merge' era un salto arriesgado para la red Ethereum, pero todo salió bien: la criptomoneda renacía, y lo hacía con ventajas evidentes. Las buenas noticia…",
+            "url": "https://www.xataka.com/criptomonedas/ethereum-esta-cayendo-a-plomo-porque-tiene-accion-bursatil-que-dinero-contante-sonante",
+            "urlToImage": "https://i.blogs.es/e32306/captura-de-pantalla-2022-09-19-a-las-16.08.33/840_560.jpeg",
+            "publishedAt": "2022-09-19T15:31:03Z",
+            "content": "Era uno de los eventos más esperados en el segmento de las criptodivisas desde hace años. El célebre 'The Merge' era un salto arriesgado para la red Ethereum, pero todo salió bien: la criptomoneda re… [+3681 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Parisa Hashempour)",
+            "title": "Crypto miners turn to infrastructure consultancies like Sabre56 to help them avoid costly mistakes",
+            "description": "Crypto mining is energy intensive and pricey, and some who invest in these operations do so without expert advice. Consultancies like Sabre56 say they can help avoid costly mistakes.",
+            "url": "https://www.businessinsider.com/crypto-mining-infrastructure-planning-is-key-to-avoiding-costly-mistakes-2022-9",
+            "urlToImage": "https://i.insider.com/63333bef488b340019deb7c4?width=1200&format=jpeg",
+            "publishedAt": "2022-09-28T17:11:52Z",
+            "content": "Cryptocurrency mining is an infamously energy-intensive endeavor, and a growing number of crypto miners are hungry for electricity.\r\nWith limited power on national grids, \"all the low-hanging fruit f… [+5344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Fuad Fatullaev",
+            "title": "How Crypto, Blockchain and Web3 Institutions Can Accelerate Mass Adoption",
+            "description": "Mass crypto adoption is growing, and it's time for companies to step into crypto education for consumers.",
+            "url": "https://www.entrepreneur.com/leadership/educating-consumers-on-crypto-will-lead-to-mass-adoption/436225",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1665761273-GettyImages-1367725356.jpg",
+            "publishedAt": "2022-10-18T19:00:00Z",
+            "content": "There is a lot of talk in the crypto world about mass adoption. But what does that mean? And how can we make it happen? Plenty of products are being created in the crypto space ranging from DeFi prot… [+5486 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks soar over 2% after September's higher than expected inflation report sparks wild turnaround",
+            "description": "The Dow Jones Industrial Average saw an intraday swing of more than 1,500 points during Thursday's wild trading session.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-wild-turnaround-inflation-september-cpi-report-2022-10",
+            "urlToImage": "https://i.insider.com/5f36baabe89ebf001f044a3d?width=1200&format=jpeg",
+            "publishedAt": "2022-10-13T20:07:01Z",
+            "content": "US stocks soared more than 2% on Thursday, recovering from an initial decline of more than 2% after September's CPI report showed inflation continues to hit levels not seen in four decades. \r\nThe S&a… [+1712 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@insider.com (Jennifer Sor)",
+            "title": "US stocks trade mixed as jobless claims edge higher and bond yields tick up",
+            "description": "US stocks were mixed on Thursday, as investors tried to regain momentum after a blistering rally earlier in the week.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-oil-supply-opec-labor-fed-pivot-2022-10",
+            "urlToImage": "https://i.insider.com/62c862ee114c1e001872c197?width=1200&format=jpeg",
+            "publishedAt": "2022-10-06T13:53:00Z",
+            "content": "US stocks were mixed on Thursday morning, struggling to recover after Wednesday's session snapped two days of strong gains for the major indexes.\r\nInvestors were mulling the latest weekly jobless cla… [+1766 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "US stocks climb in volatile session as investors await the start of key Fed policy meeting",
+            "description": "Investors are looking to Tuesday's start of the Fed policy meeting, and the subsequent interest rate hike decision coming on Wednesday.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-volatile-trade-central-bank-fed-hike-2022-9",
+            "urlToImage": "https://i.insider.com/6328c9bdedbe7f00190ee7de?width=1200&format=jpeg",
+            "publishedAt": "2022-09-19T20:11:35Z",
+            "content": "US stocks climbed Monday ahead of the Federal Reserve's two-day policy meeting which begins on Tuesday. The major indexes each flipped between gains and losses throughout the week's opening session a… [+1803 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "'Dr. Doom' economist Nouriel Roubini slams crypto as a massive fraud - and blasts Kim Kardashian for promoting coins",
+            "description": "Roubini declared that manure is more precious than some of the most ridiculous coins, as he believes they're worth less than nothing.",
+            "url": "https://markets.businessinsider.com/news/currencies/dr-doom-nouriel-roubini-economist-crypto-scam-kim-kardashian-promotion-2022-10",
+            "urlToImage": "https://i.insider.com/52edd044eab8eab067104143?width=1200&format=jpeg",
+            "publishedAt": "2022-10-04T16:35:59Z",
+            "content": "Nouriel Roubini has torn into cryptocurrencies as an epic scam, declared the most speculative ones are worth less than nothing, and called out Kim Kardashian for promoting coins.\r\n\"Crypto is the bigg… [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Gabrielle Bienasz",
+            "title": "Jack Dorsey Called Facebook 'The Swamp Of Despair' While Texting Elon Musk",
+            "description": "An account on Facebook appeared to be impersonating Musk. Dorsey pointed it out.",
+            "url": "https://www.entrepreneur.com/business-news/dorsey-to-musk-facebook-is-swamp-of-despair/436590",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1664901537-JoeRaedle.jpg",
+            "publishedAt": "2022-10-04T16:42:00Z",
+            "content": "Jack Dorsey, co-founder and former CEO of Twitter, made a jab at Facebook in a text to billionaire buddy Elon Musk in texts released as part of Musk's legal battle with Twitter over a potential acqui… [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Studie: Bitcoin-Mining sorgt für 0,1 Prozent des globalen CO₂-Ausstoßes",
+            "description": "Das Bitcoinmining ist seit Langem wegen seines Stromhungers in der Kritik. Laut Forschern kommen rund zwei Drittel der Energie dafür aus fossilen Quellen.",
+            "url": "https://www.heise.de/news/Studie-Bitcoin-Mining-sorgt-fuer-0-1-Prozent-des-globalen-CO-Ausstosses-7277647.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/1/5/8/7/1/shutterstock_1995173864-8484c125c436ece4.jpg",
+            "publishedAt": "2022-09-27T16:15:00Z",
+            "content": "Das Mining der Kryptowährung Bitcoin sorgt laut einer Schätzung von Forschern des Cambridge Center for Alternative Finance für 0,1 Prozent der weltweiten CO-Emissionen. Allerdings gehen die Forscher … [+3135 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Matthew Sparkes",
+            "title": "Bitcoin has emitted 200 million tonnes of CO2 since its launch",
+            "description": "Bitcoin's demand for electricity has led to huge carbon emissions, but a slump in the cryptocurrency's price and rising energy costs have slowed its energy use, at least temporarily",
+            "url": "https://www.newscientist.com/article/2339629-bitcoin-has-emitted-200-million-tonnes-of-co2-since-its-launch/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2022/09/28113313/SEI_127099434.jpg",
+            "publishedAt": "2022-09-28T13:14:00Z",
+            "content": "By Matthew Sparkes\r\nThe large energy requirements of bitcoin and other cryptocurrencies have a big environmental impact\r\ncorlaffra/Shutterstock\r\nBitcoin miners have emitted almost 200 million tonnes … [+459 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Andrew R. Chow",
+            "title": "Why Ethereum is Dropping After the Merge",
+            "description": "The merge was supposed to fix many of Ethereum’s problems, but its value is still tanking. Here’s why.",
+            "url": "https://time.com/6214892/ethereum-dropping-after-merge/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/09/ethereum-drop-after-merge.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2022-09-19T20:05:38Z",
+            "content": "Last week was a celebratory one for Ethereum: the world’s second-largest blockchain successfully transitioned to Proof of Stake after a painstaking eight-year development process. (Read more here abo… [+5049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Amandine Jonniaux",
+            "title": "Bitcoin : l’Europe veut interdire le minage crypto cet hiver",
+            "description": "L'heure n'est plus à l'abondance, et le minage des crypto pourrait être interdit dès cet hiver sur le vieux continent. \nBitcoin : l’Europe veut interdire le minage crypto cet hiver",
+            "url": "https://www.journaldugeek.com/2022/10/19/bitcoin-leurope-veut-interdire-le-minage-crypto-cet-hiver/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/04/executium-4kjjezdyo3m-unsplash-scaled.jpg",
+            "publishedAt": "2022-10-19T13:30:07Z",
+            "content": "L'heure n'est plus à l'abondance, et le minage des crypto pourrait être interdit dès cet hiver sur le vieux continent.Depuis les premières délibérations autour de la loi MiCA qui entend réguler plus … [+1988 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto exchange Kraken has no U.S. SEC registration plans, says incoming CEO - Reuters",
+            "description": "Cryptocurrency exchange Kraken has no plans to delist tokens the U.S. Securities and Exchange Commission has labeled as securities, or to register with the agency as a market intermediary, said incoming chief executive officer Dave Ripley on Thursday.",
+            "url": "https://www.reuters.com/technology/crypto-exchange-kraken-has-no-us-sec-registration-plans-says-incoming-ceo-2022-09-23/",
+            "urlToImage": "https://www.reuters.com/resizer/NUqw2rKjOFS14JJCGKU0XjSprEY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQTEXE4OIBNX3LH53IFRGTQKXQ.jpg",
+            "publishedAt": "2022-09-23T10:13:00Z",
+            "content": "Sept 23 (Reuters) - Cryptocurrency exchange Kraken has no plans to delist tokens the U.S. Securities and Exchange Commission has labeled as securities, or to register with the agency as a market inte… [+2778 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Dollar firm as markets brace for another big Fed rate hike - Reuters",
+            "description": "The dollar remained firm below a two-decade high versus major peers on Tuesday, as investors braced for the Federal Reserve to continue its aggressive interest-rate-hiking campaign to rein in overheated inflation.",
+            "url": "https://www.reuters.com/markets/us/dollar-firm-markets-brace-another-big-fed-rate-hike-2022-09-20/",
+            "urlToImage": "https://www.reuters.com/resizer/s1OzbISDAUazOxttmSwMTxFUcTk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RM7T2ZLXVJJQ7HXB62UXJ4TCEQ.jpg",
+            "publishedAt": "2022-09-20T02:04:00Z",
+            "content": "TOKYO, Sept 20 (Reuters) - The dollar remained firm below a two-decade high versus major peers on Tuesday, as investors braced for the Federal Reserve to continue its aggressive interest-rate-hiking … [+2522 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Breakingviews - Kim Kardashian makes an example out of the SEC - Reuters",
+            "description": "Gary Gensler is gaining some Instagram fame. The U.S. Securities and Exchange chair imposed a $1.3 million penalty on Kim Kardashian in a transparent attempt to send a high-profile warning to other influencers and wannabes about the dangers of hyping cryptocu…",
+            "url": "https://www.reuters.com/breakingviews/kim-kardashian-makes-an-example-out-sec-2022-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/jig3v0HqczS34JGl6yLvke58n0A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U467GOKGH5OODOZ4VWUTDIBQTU.jpg",
+            "publishedAt": "2022-10-03T19:36:00Z",
+            "content": "NEW YORK, Oct 3 (Reuters Breakingviews) - Gary Gensler is gaining some Instagram fame. The U.S. Securities and Exchange chair imposed a $1.3 million penalty on Kim Kardashian in a transparent attempt… [+3293 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bonds lead losses as rate hikes hit; yen in focus - Reuters",
+            "description": "Asian stocks limped toward a fourth straight weekly decline on Friday and bonds nursed big losses as investors scrambled to catch up with the U.S. Federal Reserve's interest rate outlook, while currency markets were on edge at the end of a wild week.",
+            "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-09-23/",
+            "urlToImage": "https://www.reuters.com/resizer/T1e-cj1Gh6OrxeBxiso15_RZFwY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P4EYRRMYCBKTLJTRDFE7D4UYSA.jpg",
+            "publishedAt": "2022-09-23T02:23:00Z",
+            "content": "SYDNEY, Sept 23 (Reuters) - Asian stocks limped toward a fourth straight weekly decline on Friday and bonds nursed big losses as investors scrambled to catch up with the U.S. Federal Reserve's intere… [+3569 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Crypto lender Voyager settles with executives who approved risky loan - Reuters",
+            "description": "Crypto lender Voyager Digital has agreed to settle claims against company executives who approved a risky nearly $1 billion loan to failed crypto hedge fund Three Arrows Capital (3AC) after minimal due diligence, a misstep that contributed to Voyager's own ba…",
+            "url": "https://www.reuters.com/legal/litigation/crypto-lender-voyager-settles-with-executives-who-approved-risky-loan-2022-10-18/",
+            "urlToImage": "https://www.reuters.com/resizer/OCugGSDg5Vv6v2UtMr31XAJjsM4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5QPA6WNFGNI4XDQGVS2ZEH464I.jpg",
+            "publishedAt": "2022-10-18T21:51:00Z",
+            "content": "<ul><li>\r\nSummary</li><li>\r\nLaw firms</li><li>\r\nRelated documents</li></ul>\r\n(Reuters) - Crypto lender Voyager Digital has agreed to settle claims against company executives who approved a risky near… [+3213 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Hunkering down for a new phase in the inflation fight - Reuters",
+            "description": "A look at the day ahead in U.S. and global markets from Dhara Ranasinghe.",
+            "url": "https://www.reuters.com/markets/europe/global-markets-view-usa-2022-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/iOABxMaRc4Ip0l2ISD1JLAhNPYs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2ZUBWL4YJPU3PUUKP5FQ7PCTM.jpg",
+            "publishedAt": "2022-09-19T10:57:00Z",
+            "content": "A look at the day ahead in U.S. and global markets from Dhara Ranasinghe.\r\nAn action-packed week for central banks around the world has not even got underway yet and equity investors are expressing t… [+2987 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "SWIFT sets out blueprint for central bank digital currency network - Reuters.com",
+            "description": "Financial messaging system SWIFT has laid out its blueprint for a global central bank digital currency (CBDC) network following an 8-month experiment on different technologies and currencies.",
+            "url": "https://www.reuters.com/technology/swift-sets-out-blueprint-central-bank-digital-currency-network-2022-10-05/",
+            "urlToImage": "https://www.reuters.com/resizer/xJ0Ekdqv4ukLf1IP-mDLiAZNbS0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRKJAJQBSVPEJMFP3AK5K2NLZE.jpg",
+            "publishedAt": "2022-10-05T06:19:00Z",
+            "content": "LONDON, Oct 5 (Reuters) - Financial messaging system SWIFT has laid out its blueprint for a global central bank digital currency (CBDC) network following an 8-month experiment on different technologi… [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Louis DeNicola)",
+            "title": "What is cryptocurrency? Here's what to know about this increasingly popular digital currency before getting involved",
+            "description": "Cryptocurrencies are decentralized, digital currencies that use blockchain technology to manage transactions and keep them secure.",
+            "url": "https://www.businessinsider.com/personal-finance/what-is-cryptocurrency",
+            "urlToImage": "https://i.insider.com/61c08aecbc281e00184ed412?width=1200&format=jpeg",
+            "publishedAt": "2022-09-23T21:15:06Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+8777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Lindsay Clark",
+            "title": "Bitcoin energy consumption a feature, not a bug, says crypto-miner",
+            "description": "But it's OK because we use non-carbon energy, argues CEO\nConspicuous energy consumption is a feature of the Bitcoin model, rather than a flaw, according to a crypto-miner defending the power-guzzling activity.…<!--#include virtual='/data_centre/_whitepaper_te…",
+            "url": "https://www.theregister.com/2022/10/14/bitcoin_energy_consumption/",
+            "urlToImage": "https://regmedia.co.uk/2022/04/05/shutterstock_bitcoin_mining.jpg",
+            "publishedAt": "2022-10-14T16:00:10Z",
+            "content": "Conspicuous energy consumption is a feature of the Bitcoin model, rather than a flaw, according to a crypto-miner defending the power-guzzling activity.\r\nZach Bradford, chief executive of publicly tr… [+4078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Frances Yue",
+            "title": "Crypto: BNY Mellon adds crypto to its $43 trillion custody business. Why that’s important for digital asset adoption",
+            "description": "Bank of New York Mellon is extending its reach into digital assets, which should give more investors comfort, says portfolio manager.",
+            "url": "https://www.marketwatch.com/story/bny-mellon-adds-crypto-to-its-43-trillion-custody-business-why-thats-important-for-digital-asset-adoption-11665522385",
+            "urlToImage": "https://images.mktw.net/im-590608/social",
+            "publishedAt": "2022-10-11T21:06:00Z",
+            "content": "Bank of New York Mellon, the worlds largest custodian bank, said it would start storing clients crypto assets as of Tuesday, despite the price mayhem of digital assets. The service allows certain cli… [+2414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Katyanna Quach",
+            "title": "Google Cloud to start accepting Bitcoin, Dogecoin, Ethereum as payment",
+            "description": "Plus AI services, security tools and more from Google Cloud Next this week\nGoogle Cloud today said it will start accepting cryptocurrencies as payment for its online services.…",
+            "url": "https://www.theregister.com/2022/10/11/google_cloud_next/",
+            "urlToImage": "https://regmedia.co.uk/2022/10/11/shutterstock_dogecoin_bitcoin.jpg",
+            "publishedAt": "2022-10-11T22:09:24Z",
+            "content": "Google Cloud today said it will start accepting cryptocurrencies as payment for its online services.\r\nThis method will be offered first to a chosen few customers in the Web 3.0 space, according to th… [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Lindsay Clark",
+            "title": "Bitcoin worse for the climate than beef, say economists",
+            "description": "Researchers mince 'digital gold' claims with study showing cryptocurrency's impact\nFar from being the \"digital gold\" some claim, Bitcoin's relative climate change impact is greater than the beef industry, and over seven times more than actual gold mining.…",
+            "url": "https://www.theregister.com/2022/09/30/bitcoin_climate_impact/",
+            "urlToImage": "https://regmedia.co.uk/2016/11/03/cow_photo_via_shutterstock.jpg",
+            "publishedAt": "2022-09-30T15:30:11Z",
+            "content": "Far from being the \"digital gold\" some claim, Bitcoin's relative climate change impact is greater than the beef industry, and over seven times more than actual gold mining.\r\nEconomic researchers comp… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Setra",
+            "title": "Une startup française réinvente l’eau chaude grâce au Bitcoin",
+            "description": "La startup Tresorio propose un chauffe-eau d’appoint qui utilise des puces de minage de Bitcoin (permettant à l’utilisateur de gagner des crypto) à la place des résistances électriques.",
+            "url": "https://www.presse-citron.net/une-startup-francaise-reinvente-leau-chaude-grace-au-bitcoin/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2022/09/douche-chien-bain.jpg",
+            "publishedAt": "2022-09-30T10:00:34Z",
+            "content": "Si vous suivez régulièrement lactualité des startups françaises, vous avez peut-être déjà entendu parler de Tresorio. Cette entreprise, basée à Metz, fournit un des services cloud. Mais elle se disti… [+3185 chars]"
+        }
+    ]
+}
