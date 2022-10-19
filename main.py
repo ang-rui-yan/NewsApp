@@ -13,8 +13,6 @@ Config.set('kivy', 'default_font',
 from kivy.core.text import LabelBase
 from kivymd.app import MDApp
 from kivymd.font_definitions import theme_font_styles
-        
-from api import API_KEY
 
 from components.HomeScreen import HomeScreen
         
@@ -22,7 +20,6 @@ class NewsApp(MDApp):
     def build(self):
         self.load_all_kv_files(KV_DIR)
         self.register_font()
-        self.api_key = API_KEY
         return HomeScreen()
 
     def register_font(self):

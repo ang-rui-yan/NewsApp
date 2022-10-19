@@ -1,7 +1,7 @@
 from kivy.clock import Clock
 from kivy.network.urlrequest import UrlRequest
 from kivymd.uix.screen import MDScreen
-
+import certifi
 from api import API_KEY
 
 class HomeScreen(MDScreen):
@@ -10,7 +10,7 @@ class HomeScreen(MDScreen):
         Clock.schedule_once(self.set_toolbar_font)
         url = f"https://newsapi.org/v2/everything?q=bitcoin&apiKey={API_KEY}"
         print(url)
-        self.request = UrlRequest(url, self.res)
+        self.request = UrlRequest(url, self.res, ca_file=certifi.where())
         print(self.request)
         print("Result: before success", self.request.result,"\n")
         
