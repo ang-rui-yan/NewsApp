@@ -11,26 +11,18 @@ Config.set('kivy', 'default_font',
 )
 
 from kivy.core.text import LabelBase
-from kivy.clock import Clock
 from kivymd.app import MDApp
-from kivymd.uix.screen import MDScreen
 from kivymd.font_definitions import theme_font_styles
         
+from api import API_KEY
 
-class HomeScreen(MDScreen):
-    def __init__(self, **kw):
-        super().__init__(**kw)
-        Clock.schedule_once(self.set_toolbar_font)
-
-    def set_toolbar_font(self, *args):
-        self.ids.toolbar.ids.label_title.color = "#000000"
-        self.ids.toolbar.ids.label_title.font_style = "Body1"
-        self.ids.toolbar.ids.label_title.font_name = "Poppins"
+from components.HomeScreen import HomeScreen
         
 class NewsApp(MDApp):
     def build(self):
         self.load_all_kv_files(KV_DIR)
         self.register_font()
+        self.api_key = API_KEY
         return HomeScreen()
 
     def register_font(self):
@@ -44,9 +36,6 @@ class NewsApp(MDApp):
             False,
             0.15,
         ]
-    
-    
-
 
 if __name__ == "__main__":
     NewsApp().run()

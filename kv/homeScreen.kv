@@ -39,23 +39,26 @@
                 hint_text: "Search here"
                 line_anim: False
             
-
         MDScrollView:
             padding: [0, (toolbar.height) / 4]
             size_hint_x: .9
             pos_hint: {"center_x": .5, "center_y": .5}
             always_overscroll: False
+            do_scroll_y: True
+            do_scroll_x: False
             bar_width: 0
 
-            MDGridLayout:
-                cols:1
+            MDBoxLayout:
+            	orientation: 'vertical'
                 adaptive_height: True
-                spacing: 20
+                spacing: 80
 
                 # Category
                 MDBoxLayout:
                     orientation: 'vertical'
                     adaptive_height: True
+					height: dp(100)
+
                     MDScrollView:
                         do_scroll_y: False
                         do_scroll_x: True
@@ -63,22 +66,22 @@
                         bar_width: 0
                         
                         MDGridLayout:
-                            rows:1
+                            rows: 1
                             adaptive_size: True
                             spacing: 10
                             
-                            MD3Card:
-                            MD3Card:
-                            MD3Card:
-                            MD3Card:
-                            MD3Card:
-                            MD3Card:
+                            CategoryCard:
+                            CategoryCard:
+                            CategoryCard:
+                            CategoryCard:
+                            CategoryCard:
+                            CategoryCard:
 
                 # Latest news
                 MDGridLayout:
                     cols:1
-                    adaptive_size: True
-                    spacing: 20
+                    adaptive_height: True
+                    spacing: 40
                     padding: [0, 20, 0, 20]
                     
                     MDLabel:
@@ -86,19 +89,37 @@
                         font_style: "H6"
                         font_name: "Poppins"
                     
-                    MD3Card:
-                    MD3Card:
-                    MD3Card:
-                    MD3Card:
-                    MD3Card:
-                    MD3Card:
+                    ArticleCard:
+                    ArticleCard:
+                    ArticleCard:
+                    ArticleCard:
+                    ArticleCard:
+                    ArticleCard:
 
-<MD3Card@MDCard>
+<CategoryCard@MDCard>
     padding: 4
     size_hint: None, None
     size: "200dp", "100dp"
 
     MDRelativeLayout:
+
+        MDLabel:
+            id: label
+            text: "hi"
+            font_name: "Poppins"
+            adaptive_size: True
+            halign: "center"
+            color: "grey"
+            pos: "12dp", "12dp"
+            bold: True
+
+<ArticleCard@MDCard>
+    padding: 4
+    size_hint_y: None
+	height: "200dp"
+    
+    MDRelativeLayout:
+		id: content
 
         MDLabel:
             id: label
