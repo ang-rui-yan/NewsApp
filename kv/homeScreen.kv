@@ -51,13 +51,16 @@
             MDBoxLayout:
             	orientation: 'vertical'
                 adaptive_height: True
-                spacing: 80
+                md_bg_color: app.theme_cls.bg_dark
 
                 # Category
-                MDBoxLayout:
-                    orientation: 'vertical'
+                MDGridLayout:
+                    # orientation: 'vertical'
                     adaptive_height: True
-					height: dp(100)
+                    cols: 1
+                    md_bg_color: app.theme_cls.accent_color
+                    # size_hint_y: .3
+                    # height: "100dp"
 
                     MDScrollView:
                         do_scroll_y: False
@@ -81,6 +84,8 @@
                 MDGridLayout:
                     cols:1
                     adaptive_height: True
+                    md_bg_color: app.theme_cls.accent_color
+                    
                     spacing: 40
                     padding: [0, 20, 0, 20]
                     
@@ -89,12 +94,7 @@
                         font_style: "H6"
                         font_name: "Poppins"
                     
-                    ArticleCard:
-                    ArticleCard:
-                    ArticleCard:
-                    ArticleCard:
-                    ArticleCard:
-                    ArticleCard:
+                    ArticleRV:
 
 <CategoryCard@MDCard>
     padding: 4
