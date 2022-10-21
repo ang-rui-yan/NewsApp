@@ -51,16 +51,17 @@
             MDBoxLayout:
             	orientation: 'vertical'
                 adaptive_height: True
+                spacing: 20
                 md_bg_color: app.theme_cls.bg_dark
 
                 # Category
                 MDGridLayout:
                     # orientation: 'vertical'
-                    adaptive_height: True
+                    #adaptive_height: True
                     cols: 1
                     md_bg_color: app.theme_cls.accent_color
-                    # size_hint_y: .3
-                    # height: "100dp"
+                    size_hint_y: None
+                    height: "100dp"
 
                     MDScrollView:
                         do_scroll_y: False
@@ -85,7 +86,6 @@
                     cols:1
                     adaptive_height: True
                     md_bg_color: app.theme_cls.accent_color
-                    
                     spacing: 40
                     padding: [0, 20, 0, 20]
                     

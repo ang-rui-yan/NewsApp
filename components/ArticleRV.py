@@ -19,7 +19,7 @@ Builder.load_string('''
             size: self.size
 <ArticleRV>:
     size_hint_y: None
-    height: "300dp"
+    adaptive_height: True
     viewclass: 'SelectableLabel'
     SelectableRecycleBoxLayout:
         id: article_recycle_box
