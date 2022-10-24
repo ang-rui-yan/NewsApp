@@ -1,9 +1,11 @@
 import os
 from config import KV_DIR, FONT_DIR
 from kivy.config import Config
-Config.set('graphics', 'resizable', '0')
-Config.set('graphics', 'height', '853')
-Config.set('graphics', 'width', '480')
+from kivy.utils import platform
+if platform != 'android':
+    Config.set('graphics', 'resizable', '0')
+    Config.set('graphics', 'height', '853')
+    Config.set('graphics', 'width', '480')
 Config.set('kivy', 'default_font', 
     ["Poppins", 
         os.path.join(FONT_DIR,"Poppins-Regular.ttf"), 
