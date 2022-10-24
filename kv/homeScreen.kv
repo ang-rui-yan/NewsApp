@@ -1,6 +1,7 @@
 <HomeScreen>:
     MDBoxLayout:
         orientation: "vertical"
+        md_bg_color: 1,1,1,1
 
         MDTopAppBar:
             id: toolbar
@@ -30,7 +31,7 @@
             adaptive_height: True
             padding: [0, (toolbar.height) / 4]
             size_hint_x: .9
-            pos_hint: {"center_x": .5, "center_y": .5}
+            pos_hint: {"center_x": .5}
 
             MDTextField:
                 mode: "fill"
@@ -38,6 +39,7 @@
                 icon_right: "magnify"
                 hint_text: "Search here"
                 line_anim: False
+                font_style: "Body1"
             
         MDScrollView:
             padding: [0, (toolbar.height) / 4]
@@ -48,85 +50,77 @@
             do_scroll_x: False
             bar_width: 0
 
+            # Latest news
             MDBoxLayout:
-            	orientation: 'vertical'
-                adaptive_height: True
-                spacing: 20
-                md_bg_color: app.theme_cls.bg_dark
+                orientation: 'vertical'
+                spacing: 10
+                padding: [0, 0, 0, 20]
+                
+                MDLabel:
+                    text: "Latest News"
+                    font_style: "H6"
+                    font_name: "Poppins"
+                    size_hint_y: .1
+                
+                ArticleRV:
+                    size_hint_y: .9
 
-                # Category
-                MDGridLayout:
-                    # orientation: 'vertical'
-                    #adaptive_height: True
-                    cols: 1
-                    md_bg_color: app.theme_cls.accent_color
-                    size_hint_y: None
-                    height: "100dp"
-
-                    MDScrollView:
-                        do_scroll_y: False
-                        do_scroll_x: True
-                        always_overscroll: False
-                        bar_width: 0
-                        
-                        MDGridLayout:
-                            rows: 1
-                            adaptive_size: True
-                            spacing: 10
-                            
-                            CategoryCard:
-                            CategoryCard:
-                            CategoryCard:
-                            CategoryCard:
-                            CategoryCard:
-                            CategoryCard:
-
-                # Latest news
-                MDGridLayout:
-                    cols:1
-                    adaptive_height: True
-                    md_bg_color: app.theme_cls.accent_color
-                    spacing: 40
-                    padding: [0, 20, 0, 20]
-                    
-                    MDLabel:
-                        text: "Latest News"
-                        font_style: "H6"
-                        font_name: "Poppins"
-                    
-                    ArticleRV:
-
-<CategoryCard@MDCard>
-    padding: 4
+<ArticleCard>
     size_hint: None, None
-    size: "200dp", "100dp"
-
-    MDRelativeLayout:
-
-        MDLabel:
-            id: label
-            text: "hi"
-            font_name: "Poppins"
-            adaptive_size: True
-            halign: "center"
-            color: "grey"
-            pos: "12dp", "12dp"
-            bold: True
-
-<ArticleCard@MDCard>
-    padding: 4
-    size_hint_y: None
-	height: "200dp"
+    radius: [20,20,20,20]
+    adaptive_height: True
     
-    MDRelativeLayout:
-		id: content
+    MDBoxLayout:
+        orientation: "horizontal"
+        adaptive_height: True
+        spacing: 20
 
-        MDLabel:
-            id: label
-            text: "hi"
-            font_name: "Poppins"
-            adaptive_size: True
-            halign: "center"
-            color: "grey"
-            pos: "12dp", "12dp"
-            bold: True
+        FitImage:
+            source: root.urlToImage
+            size_hint_x: .3
+            size_hint_y: 1
+            radius: [20,20,20,20]
+
+        MDBoxLayout:
+            orientation:"vertical"
+            size_hint_x: .7
+            spacing: 10
+
+            MDLabel:
+                text: root.article_title
+                font_name: "Poppins"
+                font_style: "Body1"
+                bold: True
+                text_size: self.width, None
+                size_hint_y: None
+                height: self.texture_size[1] 
+                on_size: 
+                    self.texture_update()
+                    self.height = self.texture_size[1]
+                        
+            MDBoxLayout:
+                orientation: "horizontal"
+                spacing: 0
+
+                MDLabel:
+                    text: root.article_source
+                    font_name: "Poppins"
+                    shorten: True
+                    shorten_from: 'right'
+                    font_style: "Subtitle2"
+                MDLabel:
+                    text: root.article_published_at
+                    font_name: "Poppins"
+                    shorten: True
+                    shorten_from: 'right'
+                    font_style: "Subtitle2"
+
+<ArticleRV>:
+    viewclass: 'ArticleCard'
+    SelectableRecycleBoxLayout:
+        id: article_recycle_box
+        default_size_hint: 1, None
+        size_hint_y: None
+        height: self.minimum_height
+        orientation: 'vertical'
+        spacing: 40
